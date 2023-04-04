@@ -1,2 +1,2 @@
 it has something init
- hello why name
+ hello why name okay
